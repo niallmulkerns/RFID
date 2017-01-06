@@ -1,4 +1,4 @@
- I f## RFID
+## RFID
 
 ## Synopsis
 This repository contains the major files written by myself on my summer internship (2016). They pertain to an RFID system (similar to the ones used in shops to stop theft) that  created that would track whether or not an item was within the 'room' at any given time, and alert a user in the event of changes. It was written mainly in python (tracker.py), but the automation of it also required parts to be in bash (restart.sh).
